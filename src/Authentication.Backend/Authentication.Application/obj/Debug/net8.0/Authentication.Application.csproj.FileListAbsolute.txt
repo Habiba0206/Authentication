@@ -1,0 +1,15 @@
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\obj\Debug\net8.0\Authentication.Application.csproj.AssemblyReference.cache
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\obj\Debug\net8.0\Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\obj\Debug\net8.0\Authentication.Application.AssemblyInfoInputs.cache
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\obj\Debug\net8.0\Authentication.Application.AssemblyInfo.cs
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\obj\Debug\net8.0\Authentication.Application.csproj.CoreCompileInputs.cache
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\bin\Debug\net8.0\Authentication.Application.deps.json
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\bin\Debug\net8.0\Authentication.Application.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\bin\Debug\net8.0\Authentication.Application.pdb
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\bin\Debug\net8.0\Authentication.Domain.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\bin\Debug\net8.0\Authentication.Domain.pdb
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\obj\Debug\net8.0\Authentication.Application.csproj.CopyComplete
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\obj\Debug\net8.0\Authentication.Application.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\obj\Debug\net8.0\refint\Authentication.Application.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\obj\Debug\net8.0\Authentication.Application.pdb
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Application\obj\Debug\net8.0\ref\Authentication.Application.dll

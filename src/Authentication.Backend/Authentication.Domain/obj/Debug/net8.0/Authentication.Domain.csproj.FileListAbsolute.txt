@@ -1,0 +1,11 @@
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\bin\Debug\net8.0\Authentication.Domain.deps.json
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\bin\Debug\net8.0\Authentication.Domain.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\bin\Debug\net8.0\Authentication.Domain.pdb
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.AssemblyInfoInputs.cache
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.AssemblyInfo.cs
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\obj\Debug\net8.0\refint\Authentication.Domain.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\obj\Debug\net8.0\Authentication.Domain.pdb
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Domain\obj\Debug\net8.0\ref\Authentication.Domain.dll

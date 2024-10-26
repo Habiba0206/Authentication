@@ -1,0 +1,17 @@
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\bin\Debug\net8.0\Authentication.Persistence.deps.json
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\bin\Debug\net8.0\Authentication.Persistence.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\bin\Debug\net8.0\Authentication.Persistence.pdb
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\bin\Debug\net8.0\Authentication.Domain.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\bin\Debug\net8.0\Authentication.Domain.pdb
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\Authentication.Persistence.csproj.AssemblyReference.cache
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\Authentication.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\Authentication.Persistence.AssemblyInfoInputs.cache
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\Authentication.Persistence.AssemblyInfo.cs
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\Authentication.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\Authentication.Persistence.csproj.CopyComplete
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\Authentication.Persistence.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\refint\Authentication.Persistence.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\Authentication.Persistence.pdb
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\ref\Authentication.Persistence.dll
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\bin\Debug\net8.0\Authentication.Persistence.runtimeconfig.json
+D:\Projects\ITransition .Net internship\Authentication\src\Authentication.Backend\Authentication.Persistence\obj\Debug\net8.0\Authentication.Persistence.genruntimeconfig.cache
